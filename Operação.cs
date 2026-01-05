@@ -17,7 +17,7 @@ namespace CalculadoraUnip
             float np1;
             if(!float.TryParse(Console.ReadLine(), out np1))
             {
-                Console.WriteLine("Digite uma nota valída");
+                Console.WriteLine("Digite uma nota válida");
                 Console.ReadKey();
                 return;
             }
@@ -39,7 +39,7 @@ namespace CalculadoraUnip
                 return;
             }
 
-            if(np2 < 0 || np1 > 10)
+            if(np2 < 0 || np2 > 10)
             {
                 Console.WriteLine("A nota deve estar entre 0 e 10");
                 Console.ReadKey();
@@ -82,10 +82,10 @@ namespace CalculadoraUnip
                 Console.ReadKey();
                 Console.WriteLine("");
                 Console.Write("Digite a nota do exame:");
-                int exame;
-                if(!int.TryParse(Console.ReadLine(), out exame))
+                float exame;
+                if(!float.TryParse(Console.ReadLine(), out exame))
                 {
-                    Console.WriteLine("Digite uma nota valída");
+                    Console.WriteLine("Digite uma nota válida");
                     Console.ReadKey();
                     return;
                 }
@@ -93,11 +93,13 @@ namespace CalculadoraUnip
                 if(exame < 0 || exame > 10)
                 {
                     Console.WriteLine("A nota deve estar entre 0 e 10");
+                    Console.ReadKey();
+                    return;
                 }
 
                 if( resultado + exame >= 10)
                 {
-                    Console.WriteLine("Você esta aprovado!");
+                    Console.WriteLine("Você está aprovado!");
                     Console.ReadKey();
                     return;
                 }
