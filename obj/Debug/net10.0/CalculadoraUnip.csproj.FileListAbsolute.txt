@@ -12,3 +12,4 @@ C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\refint\CalculadoraUnip.dl
 C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.pdb
 C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.genruntimeconfig.cache
 C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\ref\CalculadoraUnip.dll
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.sourcelink.json
