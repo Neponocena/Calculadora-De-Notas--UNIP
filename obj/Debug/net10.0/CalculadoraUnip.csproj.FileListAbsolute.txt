@@ -1,0 +1,14 @@
+C:\Users\45319282885\CalculadoraUnip\bin\Debug\net10.0\CalculadoraUnip.exe
+C:\Users\45319282885\CalculadoraUnip\bin\Debug\net10.0\CalculadoraUnip.deps.json
+C:\Users\45319282885\CalculadoraUnip\bin\Debug\net10.0\CalculadoraUnip.runtimeconfig.json
+C:\Users\45319282885\CalculadoraUnip\bin\Debug\net10.0\CalculadoraUnip.dll
+C:\Users\45319282885\CalculadoraUnip\bin\Debug\net10.0\CalculadoraUnip.pdb
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.AssemblyInfoInputs.cache
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.AssemblyInfo.cs
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.csproj.CoreCompileInputs.cache
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.dll
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\refint\CalculadoraUnip.dll
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.pdb
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\CalculadoraUnip.genruntimeconfig.cache
+C:\Users\45319282885\CalculadoraUnip\obj\Debug\net10.0\ref\CalculadoraUnip.dll
